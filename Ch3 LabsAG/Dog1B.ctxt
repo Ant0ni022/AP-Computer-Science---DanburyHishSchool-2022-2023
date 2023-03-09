@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Dog1B()
+comment1.params=n\ l\ w\ a
+comment1.target=Dog1B(java.lang.String,\ int,\ double,\ boolean)
+comment2.params=
+comment2.target=void\ speak()
+numComments=3
